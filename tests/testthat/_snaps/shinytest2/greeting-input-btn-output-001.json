@@ -1,0 +1,12 @@
+{
+  "input": {
+    "app-greet": 1,
+    "app-name": "Johan Rosa"
+  },
+  "output": {
+    "app-greeting": "Hello Johan Rosa!"
+  },
+  "export": {
+
+  }
+}
